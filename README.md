@@ -85,12 +85,6 @@ Passion     : Turning raw data into decisions & people into their best selves  �
 - 📋 Onboarding documentation & Position Scorecards
 - 🌐 Employer branding initiatives
 
-**Mathematics & English Teacher** *(Primary Level)*
-- 🧮 Built patience, communication, and the art of explaining complex things simply
-
-**Sales & Customer Engagement — Forever Living Products**
-- 💬 Customer relationship building & product presentations
-
 ---
 
 ## 📊 GitHub Stats
